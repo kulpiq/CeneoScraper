@@ -24,3 +24,5 @@
 4. Os
 5. Translate
 6. Numpy
+7. Pandas
+8. Matplotlib
